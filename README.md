@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hello World 👋, I'm Yadri Amzal. 
 This my Github profile, you can call me  "yamzal" as well from East Java, Indonesia. I'm a Software Engineer which is currently focus on Web Development. I'm currently interested in coding or developer world because I'm interest to challenge my self to solve any problem either in bussiness or life through coding perspective. I also interested in learning new things and push my self into next level.
 
